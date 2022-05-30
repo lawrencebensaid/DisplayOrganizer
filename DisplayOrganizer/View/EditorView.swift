@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  DisplayOrganiser
+//  DisplayOrganizer
 //
 //  Created by Lawrence Bensaid on 25/01/2021.
 //
@@ -103,7 +103,7 @@ struct EditorView: View {
                     editor.changed = true
                 }
         )
-        .navigationTitle("Display Organiser")
+        .navigationTitle("Display Organizer")
         .navigationSubtitle(profile?.name ?? "Active")
         .toolbar {
             Button {

@@ -1,6 +1,6 @@
 //
 //  api.c
-//  DisplayOrganiser
+//  DisplayOrganizer
 //
 //  Created by Lawrence Bensaid on 25/01/2021.
 //

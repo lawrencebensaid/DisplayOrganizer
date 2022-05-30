@@ -1,6 +1,6 @@
 //
 //  DisplayDetailView.swift
-//  DisplayOrganiser
+//  DisplayOrganizer
 //
 //  Created by Lawrence Bensaid on 5/29/22.
 //

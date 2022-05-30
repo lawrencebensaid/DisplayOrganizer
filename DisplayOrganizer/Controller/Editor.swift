@@ -1,6 +1,6 @@
 //
 //  Editor.swift
-//  DisplayOrganiser
+//  DisplayOrganizer
 //
 //  Created by Lawrence Bensaid on 25/03/2021.
 //

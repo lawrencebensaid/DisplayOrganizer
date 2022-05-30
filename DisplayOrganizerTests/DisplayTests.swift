@@ -1,12 +1,12 @@
 //
 //  DisplayTests.swift
-//  DisplayOrganiserTests
+//  DisplayOrganizerTests
 //
 //  Created by Lawrence Bensaid on 5/30/22.
 //
 
 import XCTest
-@testable import DisplayOrganiser
+@testable import DisplayOrganizer
 
 class DisplayTests: XCTestCase {
     

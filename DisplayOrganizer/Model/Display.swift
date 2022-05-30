@@ -1,6 +1,6 @@
 //
 //  Display.swift
-//  DisplayOrganiser
+//  DisplayOrganizer
 //
 //  Created by Lawrence Bensaid on 24/03/2021.
 //

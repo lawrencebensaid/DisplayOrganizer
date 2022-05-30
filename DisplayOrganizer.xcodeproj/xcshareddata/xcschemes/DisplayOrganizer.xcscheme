@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4DF7442D25BECB08004DF51B"
-               BuildableName = "DisplayOrganiser.app"
-               BlueprintName = "DisplayOrganiser"
-               ReferencedContainer = "container:DisplayOrganiser.xcodeproj">
+               BlueprintIdentifier = "4D64FFAA2844CE6800BC4D12"
+               BuildableName = "DisplayOrganizer.app"
+               BlueprintName = "DisplayOrganizer"
+               ReferencedContainer = "container:DisplayOrganizer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4D597DE42844C45E008C64F5"
-               BuildableName = "DisplayOrganiserTests.xctest"
-               BlueprintName = "DisplayOrganiserTests"
-               ReferencedContainer = "container:DisplayOrganiser.xcodeproj">
+               BlueprintIdentifier = "4D64FFD02844CEE400BC4D12"
+               BuildableName = "DisplayOrganizerTests.xctest"
+               BlueprintName = "DisplayOrganizerTests"
+               ReferencedContainer = "container:DisplayOrganizer.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4DF7442D25BECB08004DF51B"
-            BuildableName = "DisplayOrganiser.app"
-            BlueprintName = "DisplayOrganiser"
-            ReferencedContainer = "container:DisplayOrganiser.xcodeproj">
+            BlueprintIdentifier = "4D64FFAA2844CE6800BC4D12"
+            BuildableName = "DisplayOrganizer.app"
+            BlueprintName = "DisplayOrganizer"
+            ReferencedContainer = "container:DisplayOrganizer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,10 +72,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4DF7442D25BECB08004DF51B"
-            BuildableName = "DisplayOrganiser.app"
-            BlueprintName = "DisplayOrganiser"
-            ReferencedContainer = "container:DisplayOrganiser.xcodeproj">
+            BlueprintIdentifier = "4D64FFAA2844CE6800BC4D12"
+            BuildableName = "DisplayOrganizer.app"
+            BlueprintName = "DisplayOrganizer"
+            ReferencedContainer = "container:DisplayOrganizer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

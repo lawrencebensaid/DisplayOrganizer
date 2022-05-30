@@ -1,6 +1,6 @@
 //
-//  DisplayOrganiserApp.swift
-//  DisplayOrganiser
+//  DisplayOrganizerApp.swift
+//  DisplayOrganizer
 //
 //  Created by Lawrence Bensaid on 25/01/2021.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct DisplayOrganiserApp: App {
+struct DisplayOrganizerApp: App {
     
     private let dataContainer = PersistenceController.shared.container
     
